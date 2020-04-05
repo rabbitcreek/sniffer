@@ -224,7 +224,7 @@ void brighten(int q) {
       strip.setPixelColor(i, 0,  0, j);
     }
     strip.show();
-    delay(255/(j+1)); 'p4h m  
+    delay(255/(j+1));
   }
 
   
